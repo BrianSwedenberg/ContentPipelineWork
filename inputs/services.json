@@ -1,0 +1,127 @@
+[
+  {
+    "id": "roll-off-dumpster",
+    "name": "Roll-Off Dumpster Rental",
+    "service_type": "roll-off",
+    "description": "Open-top roll-off containers for contractors, construction crews, demo jobs, renovation projects, and large cleanouts. Delivered to the job site, left as long as needed, picked up full and taken to the landfill.",
+    "sizes_available": ["10 yard", "20 yard", "30 yard", "40 yard"],
+    "primary_customers": [
+      "General contractors",
+      "Roofing crews",
+      "Demo and excavation companies",
+      "Property managers",
+      "Homeowners doing large renovations or cleanouts"
+    ],
+    "primary_keyword_template": "roll-off dumpster rental {city} {state_abbreviation}",
+    "secondary_keyword_templates": [
+      "dumpster rental {city} {state_abbreviation}",
+      "roll off dumpster {city}",
+      "construction dumpster rental {city}",
+      "dumpster rental near {city}",
+      "{city} dumpster rental"
+    ],
+    "key_value_props": [
+      "Any size job site",
+      "Flexible rental periods",
+      "Same-day and next-day delivery available",
+      "Full landfill disposal included",
+      "One contact for delivery, swap, and pickup"
+    ],
+    "what_goes_in": [
+      "Construction debris",
+      "Roofing shingles",
+      "Demo materials — drywall, flooring, lumber",
+      "Renovation waste",
+      "General junk and cleanout materials"
+    ],
+    "what_does_not_go_in": [
+      "Hazardous materials",
+      "Tires",
+      "Appliances with freon",
+      "Liquid waste",
+      "Hot ashes"
+    ],
+    "webflow_collection": "Services",
+    "webflow_service_type_option": "roll-off"
+  },
+  {
+    "id": "commercial-dumpster",
+    "name": "Commercial Dumpster Service",
+    "service_type": "commercial",
+    "description": "Front-load closed-top dumpsters for businesses with ongoing waste disposal needs. Scheduled recurring pickup service for restaurants, grocery stores, retail, and commercial properties.",
+    "sizes_available": ["2 yard", "4 yard", "6 yard", "8 yard"],
+    "primary_customers": [
+      "Restaurants and food service businesses",
+      "Grocery stores and supermarkets",
+      "Retail stores and shopping centers",
+      "Office buildings and commercial properties",
+      "Multi-family residential properties"
+    ],
+    "primary_keyword_template": "commercial dumpster service {city} {state_abbreviation}",
+    "secondary_keyword_templates": [
+      "commercial dumpster rental {city}",
+      "business dumpster service {city}",
+      "restaurant dumpster service {city}",
+      "recurring dumpster pickup {city}",
+      "front load dumpster {city}"
+    ],
+    "key_value_props": [
+      "Scheduled recurring pickup — weekly, twice weekly, or daily",
+      "Right-sized containers for your waste volume",
+      "Reliable service with no missed pickups",
+      "One broker contact for any service issues",
+      "Vetted local providers with track records"
+    ],
+    "service_frequencies": [
+      "Daily",
+      "Twice weekly",
+      "Weekly",
+      "Every other week"
+    ],
+    "webflow_collection": "Services",
+    "webflow_service_type_option": "commercial"
+  },
+  {
+    "id": "porta-potty-rental",
+    "name": "Porta Potty Rental",
+    "service_type": "porta-potty",
+    "description": "Portable toilet rental for construction sites, events, and any job requiring temporary sanitation. Single units to full banks, standard and ADA-compliant, short and long-term rental.",
+    "unit_types": [
+      "Standard portable toilet",
+      "ADA-compliant accessible unit",
+      "Portable hand wash station",
+      "Luxury restroom trailer (events)"
+    ],
+    "primary_customers": [
+      "General contractors and construction crews",
+      "Event organizers and promoters",
+      "Festival and outdoor venue operators",
+      "Municipalities and government projects",
+      "Film and production crews"
+    ],
+    "primary_keyword_template": "porta potty rental {city} {state_abbreviation}",
+    "secondary_keyword_templates": [
+      "portable toilet rental {city}",
+      "porta john rental {city}",
+      "construction porta potty {city}",
+      "event portable toilets {city}",
+      "portable restroom rental {city} {state_abbreviation}"
+    ],
+    "key_value_props": [
+      "Construction and event units available",
+      "ADA-compliant units in stock",
+      "Short and long-term rental",
+      "Regular service and cleaning included",
+      "Fast delivery across the metro area"
+    ],
+    "rental_durations": [
+      "Single day (events)",
+      "Weekend",
+      "Weekly",
+      "Monthly",
+      "Long-term project duration"
+    ],
+    "webflow_collection": "Services",
+    "webflow_service_type_option": "porta-potty"
+  }
+]

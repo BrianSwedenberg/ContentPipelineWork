@@ -1,0 +1,106 @@
+{
+  "brief_id": "city_page__huntersville-nc__2025-05-12",
+  "created_at": "2026-05-12T21:04:00Z",
+  "content_type": "city_page",
+  "pipeline_stage": "brief_approved",
+  "attempt_number": 0,
+  "instructions": {
+    "h1": "Dumpster Rental & Porta Potties in Huntersville, NC — Fast, Reliable Service",
+    "meta_title": "Dumpster Rental Huntersville NC | Brian's Dumpsters",
+    "meta_description": "Need a dumpster or porta potty in Huntersville? Free quote in under 15 minutes. Vetted providers, fast delivery across Mecklenburg County.",
+    "primary_keyword": "dumpster rental Huntersville NC",
+    "secondary_keywords": [
+      "roll-off dumpster Huntersville",
+      "porta potty rental Huntersville NC",
+      "construction dumpster Huntersville",
+      "dumpster rental near Huntersville",
+      "Huntersville NC waste removal"
+    ],
+    "sections_required": [
+      "hero",
+      "local-intro",
+      "services-available",
+      "how-it-works",
+      "service-areas",
+      "faq",
+      "cta"
+    ],
+    "word_count_target": "600-750",
+    "faq_questions": [
+      "How much does dumpster rental cost in Huntersville NC?",
+      "Do I need a permit for a dumpster in Huntersville?",
+      "What size dumpster do I need for a home renovation in Huntersville?",
+      "How fast can you deliver a porta potty to a Huntersville job site?",
+      "What areas near Huntersville do you serve?"
+    ],
+    "tone_notes": "Huntersville is a fast-growing suburb north of Charlotte — heavy residential construction, new developments, and home renovation activity. Many customers will be homeowners doing renovations or contractors working the new-build market. Lead with reliability and speed. Keep it grounded and practical — this is not a corporate audience.",
+    "cta_text": "Get a Free Huntersville Quote",
+    "cta_destination": "/get-a-quote",
+    "local_angles": [
+      "Huntersville is one of the fastest-growing towns in North Carolina — heavy residential construction and new development activity throughout the area",
+      "Strong home renovation market driven by established neighborhoods like Birkdale and newer developments near Lake Norman",
+      "Mecklenburg County requires a Right-of-Way permit for dumpsters placed on public streets — contact Mecklenburg County Land Use and Environmental Services Agency",
+      "Active commercial corridor along Gilead Road and Sam Furr Road with restaurants and retail needing commercial bin service",
+      "Close proximity to Lake Norman creates demand for outdoor event porta potty rental"
+    ],
+    "nearby_cities": [
+      "Cornelius",
+      "Davidson",
+      "Mooresville",
+      "Charlotte",
+      "Concord"
+    ],
+    "local_permit_info": "Mecklenburg County requires a Right-of-Way permit for any dumpster placed on a public street or sidewalk. Contact Mecklenburg County Land Use and Environmental Services Agency. No permit required for dumpsters placed entirely on private property.",
+    "neighborhoods": [
+      "Birkdale",
+      "Birkdale Village",
+      "Northstone",
+      "Skybrook",
+      "Gilead Road corridor",
+      "Sam Furr Road corridor",
+      "Lake Norman shoreline area",
+      "Hambright area"
+    ],
+    "internal_links": [
+      { "text": "roll-off dumpster rental", "url": "/services/roll-off-dumpster" },
+      { "text": "porta potty rental", "url": "/services/porta-potty" },
+      { "text": "commercial dumpster service", "url": "/services/commercial-dumpster" },
+      { "text": "get a free quote", "url": "/get-a-quote" }
+    ],
+    "additional_notes": "Huntersville sits 13 miles north of Charlotte on I-77. Reference the Lake Norman area for event porta potty context. Do not fabricate specific permit fees or office phone numbers beyond what is stated in local_permit_info."
+  },
+  "output_schema": {
+    "name": "Plain text — city name only: Huntersville",
+    "slug": "Plain text — huntersville-nc",
+    "state": "Plain text — North Carolina",
+    "state-abbreviation": "Plain text — NC",
+    "metro-area": "Plain text — Charlotte Metro",
+    "local-phone": "Plain text — use placeholder (704) 000-0000",
+    "neighborhoods": "Plain text — comma separated list of neighborhoods and areas served",
+    "local-body-copy": "Rich text markdown — full page body content, 600-750 words, all sections from sections_required in order",
+    "local-faq": "Rich text markdown — all 5 FAQ questions with 60-80 word answers each",
+    "meta-title": "Plain text — under 60 characters",
+    "meta-description": "Plain text — under 160 characters",
+    "is-active": "Boolean — always false",
+    "writer_notes": "Plain text — flag any assumptions or unknowns here, empty string if none"
+  },
+  "qa_result": {
+    "approved": null,
+    "score": null,
+    "attempt_number": null,
+    "revision_notes": "",
+    "escalate_to_human": false,
+    "escalation_reason": ""
+  },
+  "run_log": {
+    "created_at": "2026-05-12T21:04:00Z",
+    "brief_approved_at": "2026-05-12T21:04:00Z",
+    "writing_started_at": "",
+    "qa_started_at": "",
+    "approved_at": "",
+    "published_at": "",
+    "webflow_item_id": "",
+    "webflow_collection_id": "",
+    "log_file_path": ""
+  }
+}

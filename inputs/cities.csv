@@ -1,0 +1,43 @@
+city,state,state_abbreviation,county,metro_area,distance_from_charlotte,local_phone,is_active
+Charlotte,North Carolina,NC,Mecklenburg County,Charlotte Metro,0 miles,TBD,false
+Huntersville,North Carolina,NC,Mecklenburg County,Charlotte Metro,13 miles N,TBD,false
+Cornelius,North Carolina,NC,Mecklenburg County,Charlotte Metro,17 miles N,TBD,false
+Davidson,North Carolina,NC,Mecklenburg County,Charlotte Metro,20 miles N,TBD,false
+Pineville,North Carolina,NC,Mecklenburg County,Charlotte Metro,9 miles S,TBD,false
+Matthews,North Carolina,NC,Mecklenburg County,Charlotte Metro,11 miles SE,TBD,false
+Mint Hill,North Carolina,NC,Mecklenburg County,Charlotte Metro,12 miles E,TBD,false
+Concord,North Carolina,NC,Cabarrus County,Charlotte Metro,19 miles NE,TBD,false
+Kannapolis,North Carolina,NC,Cabarrus County,Charlotte Metro,25 miles NE,TBD,false
+Harrisburg,North Carolina,NC,Cabarrus County,Charlotte Metro,16 miles NE,TBD,false
+Mount Pleasant,North Carolina,NC,Cabarrus County,Charlotte Metro,28 miles NE,TBD,false
+Midland,North Carolina,NC,Cabarrus County,Charlotte Metro,22 miles NE,TBD,false
+Monroe,North Carolina,NC,Union County,Charlotte Metro,24 miles SE,TBD,false
+Indian Trail,North Carolina,NC,Union County,Charlotte Metro,15 miles SE,TBD,false
+Stallings,North Carolina,NC,Union County,Charlotte Metro,14 miles SE,TBD,false
+Waxhaw,North Carolina,NC,Union County,Charlotte Metro,22 miles S,TBD,false
+Marvin,North Carolina,NC,Union County,Charlotte Metro,18 miles S,TBD,false
+Weddington,North Carolina,NC,Union County,Charlotte Metro,16 miles SE,TBD,false
+Wesley Chapel,North Carolina,NC,Union County,Charlotte Metro,18 miles SE,TBD,false
+Mineral Springs,North Carolina,NC,Union County,Charlotte Metro,20 miles S,TBD,false
+Unionville,North Carolina,NC,Union County,Charlotte Metro,24 miles SE,TBD,false
+Gastonia,North Carolina,NC,Gaston County,Charlotte Metro,20 miles W,TBD,false
+Belmont,North Carolina,NC,Gaston County,Charlotte Metro,13 miles W,TBD,false
+Mount Holly,North Carolina,NC,Gaston County,Charlotte Metro,14 miles W,TBD,false
+Cramerton,North Carolina,NC,Gaston County,Charlotte Metro,18 miles W,TBD,false
+Lowell,North Carolina,NC,Gaston County,Charlotte Metro,18 miles W,TBD,false
+McAdenville,North Carolina,NC,Gaston County,Charlotte Metro,17 miles W,TBD,false
+Ranlo,North Carolina,NC,Gaston County,Charlotte Metro,20 miles W,TBD,false
+Bessemer City,North Carolina,NC,Gaston County,Charlotte Metro,26 miles W,TBD,false
+Stanley,North Carolina,NC,Gaston County,Charlotte Metro,22 miles W,TBD,false
+Cherryville,North Carolina,NC,Gaston County,Charlotte Metro,30 miles W,TBD,false
+Mooresville,North Carolina,NC,Iredell County,Charlotte Metro,30 miles N,TBD,false
+Troutman,North Carolina,NC,Iredell County,Charlotte Metro,29 miles N,TBD,false
+Denver,North Carolina,NC,Lincoln County,Charlotte Metro,25 miles NW,TBD,false
+Lincolnton,North Carolina,NC,Lincoln County,Charlotte Metro,30 miles NW,TBD,false
+Kings Mountain,North Carolina,NC,Cleveland County,Charlotte Metro,30 miles SW,TBD,false
+Rock Hill,South Carolina,SC,York County,Charlotte Metro,25 miles S,TBD,false
+Fort Mill,South Carolina,SC,York County,Charlotte Metro,18 miles S,TBD,false
+Tega Cay,South Carolina,SC,York County,Charlotte Metro,16 miles S,TBD,false
+Lake Wylie,South Carolina,SC,York County,Charlotte Metro,17 miles SW,TBD,false
+Clover,South Carolina,SC,York County,Charlotte Metro,28 miles SW,TBD,false
+York,South Carolina,SC,York County,Charlotte Metro,28 miles SW,TBD,false
